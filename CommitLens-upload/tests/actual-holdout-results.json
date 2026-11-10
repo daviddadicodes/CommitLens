@@ -1,0 +1,424 @@
+{
+  "holdout": {
+    "elapsedSeconds": 18.4100081,
+    "score": {
+      "trueActive": 0,
+      "unsupportedActive": 1,
+      "cancelledRetainedAsActive": 0,
+      "ownerCorrect": 0,
+      "ownerExpected": 1,
+      "deadlineCorrect": 0,
+      "deadlineExpected": 1,
+      "unresolvedOrAmbiguousFound": 1,
+      "clipsChecked": 21,
+      "falsePositives": [
+        {
+          "title": "Book the box",
+          "status": "active"
+        }
+      ],
+      "falseNegatives": [
+        {
+          "match": "bus",
+          "status": "active",
+          "owner": "Ben Miller",
+          "deadline": "Tuesday",
+          "deadlineStatus": "relative_unresolved"
+        }
+      ],
+      "fieldErrors": [],
+      "evidenceErrors": []
+    },
+    "result": {
+      "duration": 32.4365,
+      "transcript": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 1.1500000000000001,
+          "text": "My name is Anna Smith.",
+          "speaker": "A"
+        },
+        {
+          "id": "s2",
+          "start": 1.55,
+          "end": 2.2,
+          "text": "Anna Smith,",
+          "speaker": "A"
+        },
+        {
+          "id": "s3",
+          "start": 2.55,
+          "end": 3.95,
+          "text": "I lead the Park Project.",
+          "speaker": "A"
+        },
+        {
+          "id": "s4",
+          "start": 4.75,
+          "end": 5.95,
+          "text": "My name is Ben Miller.",
+          "speaker": "B"
+        },
+        {
+          "id": "s5",
+          "start": 6.3500000000000005,
+          "end": 7.000000000000001,
+          "text": "Ben Miller,",
+          "speaker": "B"
+        },
+        {
+          "id": "s6",
+          "start": 7.400000000000001,
+          "end": 8.850000000000001,
+          "text": "I work on the Park Project.",
+          "speaker": "B"
+        },
+        {
+          "id": "s7",
+          "start": 9.750000000000002,
+          "end": 11.350000000000001,
+          "text": "Can you open the box by Tuesday?",
+          "speaker": "A"
+        },
+        {
+          "id": "s8",
+          "start": 12.150000000000002,
+          "end": 12.600000000000001,
+          "text": "Yes,",
+          "speaker": "B"
+        },
+        {
+          "id": "s9",
+          "start": 12.950000000000001,
+          "end": 14.55,
+          "text": "I will book the box by Tuesday.",
+          "speaker": "B"
+        },
+        {
+          "id": "s10",
+          "start": 15.350000000000001,
+          "end": 17.200000000000003,
+          "text": "I will print the maps by Friday.",
+          "speaker": "A"
+        },
+        {
+          "id": "s11",
+          "start": 17.950000000000003,
+          "end": 20.300000000000004,
+          "text": "The Park Office already printed the maps.",
+          "speaker": "B"
+        },
+        {
+          "id": "s12",
+          "start": 20.800000000000004,
+          "end": 22.650000000000006,
+          "text": "Can we cancel your printing task?",
+          "speaker": "B"
+        },
+        {
+          "id": "s13",
+          "start": 23.350000000000005,
+          "end": 23.750000000000004,
+          "text": "Yes,",
+          "speaker": "A"
+        },
+        {
+          "id": "s14",
+          "start": 24.050000000000004,
+          "end": 24.750000000000004,
+          "text": "cancel it.",
+          "speaker": "A"
+        },
+        {
+          "id": "s15",
+          "start": 25.050000000000004,
+          "end": 26.600000000000005,
+          "text": "I will not print the maps.",
+          "speaker": "A"
+        },
+        {
+          "id": "s16",
+          "start": 27.124,
+          "end": 29.223999999999997,
+          "text": "Which gate should we use for the group?",
+          "speaker": "B"
+        },
+        {
+          "id": "s17",
+          "start": 30.023999999999997,
+          "end": 31.723999999999997,
+          "text": "We have not picked a gate yet.",
+          "speaker": "A"
+        }
+      ],
+      "speakers": [
+        {
+          "label": "A",
+          "name": "Anna Smith",
+          "intro": {
+            "segmentId": "s1",
+            "quote": "My name is Anna Smith.",
+            "role": "statement",
+            "start": 0,
+            "end": 1.1500000000000001,
+            "speaker": "A"
+          }
+        },
+        {
+          "label": "B",
+          "name": "Ben Miller",
+          "intro": {
+            "segmentId": "s4",
+            "quote": "My name is Ben Miller.",
+            "role": "statement",
+            "start": 4.75,
+            "end": 5.95,
+            "speaker": "B"
+          }
+        }
+      ],
+      "rejected": [],
+      "items": [
+        {
+          "id": "e37ccd63-9f55-4334-ac4e-e4718c14cdc4",
+          "title": "Book the box",
+          "owner": "Ben Miller",
+          "deadline": "Tuesday",
+          "date": null,
+          "deadlineStatus": "relative_unresolved",
+          "status": "active",
+          "evidence": [
+            {
+              "segmentId": "s7",
+              "quote": "Can you open the box by Tuesday?",
+              "role": "question",
+              "start": 9.750000000000002,
+              "end": 11.350000000000001,
+              "speaker": "A"
+            },
+            {
+              "segmentId": "s9",
+              "quote": "I will book the box by Tuesday.",
+              "role": "agreement",
+              "start": 12.950000000000001,
+              "end": 14.55,
+              "speaker": "B"
+            }
+          ],
+          "history": [
+            {
+              "summary": "Ben Miller committed to booking the box by Tuesday.",
+              "evidence": [
+                {
+                  "segmentId": "s9",
+                  "quote": "I will book the box by Tuesday.",
+                  "role": "agreement",
+                  "start": 12.950000000000001,
+                  "end": 14.55,
+                  "speaker": "B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b2d5eab4-0853-48e9-8d06-a93820ec4547",
+          "title": "Print the maps",
+          "owner": "Anna Smith",
+          "deadline": "Friday",
+          "date": null,
+          "deadlineStatus": "relative_unresolved",
+          "status": "cancelled",
+          "evidence": [
+            {
+              "segmentId": "s10",
+              "quote": "I will print the maps by Friday.",
+              "role": "statement",
+              "start": 15.350000000000001,
+              "end": 17.200000000000003,
+              "speaker": "A"
+            },
+            {
+              "segmentId": "s11",
+              "quote": "The Park Office already printed the maps.",
+              "role": "statement",
+              "start": 17.950000000000003,
+              "end": 20.300000000000004,
+              "speaker": "B"
+            },
+            {
+              "segmentId": "s12",
+              "quote": "Can we cancel your printing task?",
+              "role": "question",
+              "start": 20.800000000000004,
+              "end": 22.650000000000006,
+              "speaker": "B"
+            },
+            {
+              "segmentId": "s13",
+              "quote": "Yes,",
+              "role": "agreement",
+              "start": 23.350000000000005,
+              "end": 23.750000000000004,
+              "speaker": "A"
+            },
+            {
+              "segmentId": "s14",
+              "quote": "cancel it.",
+              "role": "agreement",
+              "start": 24.050000000000004,
+              "end": 24.750000000000004,
+              "speaker": "A"
+            },
+            {
+              "segmentId": "s15",
+              "quote": "I will not print the maps.",
+              "role": "cancellation",
+              "start": 25.050000000000004,
+              "end": 26.600000000000005,
+              "speaker": "A"
+            }
+          ],
+          "history": [
+            {
+              "summary": "Anna Smith initially committed to printing the maps by Friday.",
+              "evidence": [
+                {
+                  "segmentId": "s10",
+                  "quote": "I will print the maps by Friday.",
+                  "role": "statement",
+                  "start": 15.350000000000001,
+                  "end": 17.200000000000003,
+                  "speaker": "A"
+                }
+              ]
+            },
+            {
+              "summary": "Ben Miller informed that the Park Office already printed the maps and asked to cancel the printing task.",
+              "evidence": [
+                {
+                  "segmentId": "s11",
+                  "quote": "The Park Office already printed the maps.",
+                  "role": "statement",
+                  "start": 17.950000000000003,
+                  "end": 20.300000000000004,
+                  "speaker": "B"
+                },
+                {
+                  "segmentId": "s12",
+                  "quote": "Can we cancel your printing task?",
+                  "role": "question",
+                  "start": 20.800000000000004,
+                  "end": 22.650000000000006,
+                  "speaker": "B"
+                }
+              ]
+            },
+            {
+              "summary": "Anna Smith agreed to cancel the printing task and confirmed she will not print the maps.",
+              "evidence": [
+                {
+                  "segmentId": "s13",
+                  "quote": "Yes,",
+                  "role": "agreement",
+                  "start": 23.350000000000005,
+                  "end": 23.750000000000004,
+                  "speaker": "A"
+                },
+                {
+                  "segmentId": "s14",
+                  "quote": "cancel it.",
+                  "role": "agreement",
+                  "start": 24.050000000000004,
+                  "end": 24.750000000000004,
+                  "speaker": "A"
+                },
+                {
+                  "segmentId": "s15",
+                  "quote": "I will not print the maps.",
+                  "role": "cancellation",
+                  "start": 25.050000000000004,
+                  "end": 26.600000000000005,
+                  "speaker": "A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "178f02e5-1d62-4e9a-9403-8aa9f0f29767",
+          "title": "Pick a gate for the group",
+          "owner": null,
+          "deadline": null,
+          "date": null,
+          "deadlineStatus": "none",
+          "status": "open",
+          "evidence": [
+            {
+              "segmentId": "s16",
+              "quote": "Which gate should we use for the group?",
+              "role": "question",
+              "start": 27.124,
+              "end": 29.223999999999997,
+              "speaker": "B"
+            },
+            {
+              "segmentId": "s17",
+              "quote": "We have not picked a gate yet.",
+              "role": "statement",
+              "start": 30.023999999999997,
+              "end": 31.723999999999997,
+              "speaker": "A"
+            }
+          ],
+          "history": [
+            {
+              "summary": "Ben Miller asked which gate to use for the group.",
+              "evidence": [
+                {
+                  "segmentId": "s16",
+                  "quote": "Which gate should we use for the group?",
+                  "role": "question",
+                  "start": 27.124,
+                  "end": 29.223999999999997,
+                  "speaker": "B"
+                }
+              ]
+            },
+            {
+              "summary": "Anna Smith stated that a gate has not been picked yet.",
+              "evidence": [
+                {
+                  "segmentId": "s17",
+                  "quote": "We have not picked a gate yet.",
+                  "role": "statement",
+                  "start": 30.023999999999997,
+                  "end": 31.723999999999997,
+                  "speaker": "A"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metrics": {
+        "calls": 3,
+        "retries": 0,
+        "seconds": {
+          "transcription": 11.942988999999999,
+          "extraction": 4.422369900000001,
+          "total": 18.4075016,
+          "validation": 2.0406849
+        },
+        "costs": {
+          "transcription": 0.011035,
+          "extraction": 0.0017116000000000002,
+          "validation": 0.0013212
+        },
+        "usd": 0.0140678,
+        "usdPerMinute": 0.026022166386632344
+      }
+    }
+  }
+}

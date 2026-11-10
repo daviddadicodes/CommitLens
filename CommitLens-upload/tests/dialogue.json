@@ -1,0 +1,97 @@
+{
+  "baseline": [
+    [
+      "Maya",
+      "Hi, I'm Maya Chen, the project lead."
+    ],
+    [
+      "Jordan",
+      "And I'm Jordan Ellis, the designer."
+    ],
+    [
+      "Maya",
+      "Jordan, can you finish the homepage wireframes by Thursday?"
+    ],
+    [
+      "Jordan",
+      "Yes, I'll finish the homepage wireframes by Thursday."
+    ],
+    [
+      "Maya",
+      "Actually, let's move the homepage wireframes deadline to Friday."
+    ],
+    [
+      "Jordan",
+      "Agreed, I'll finish the homepage wireframes by Friday."
+    ],
+    [
+      "Maya",
+      "I'll send the launch checklist by Wednesday."
+    ],
+    [
+      "Jordan",
+      "Sounds good. I'll prepare the newsletter draft by Tuesday."
+    ],
+    [
+      "Maya",
+      "Let's cancel the newsletter draft altogether."
+    ],
+    [
+      "Jordan",
+      "Agreed. The newsletter draft is cancelled."
+    ],
+    [
+      "Maya",
+      "We need to review the budget next Monday. Let's commit to doing that."
+    ],
+    [
+      "Jordan",
+      "Agreed, we'll review the budget next Monday. We can assign someone later."
+    ],
+    [
+      "Maya",
+      "We could also redesign the pricing page at some point."
+    ],
+    [
+      "Jordan",
+      "Which vendor should host the launch webinar?"
+    ],
+    [
+      "Maya",
+      "That's still open. We'll decide after we get quotes."
+    ]
+  ],
+  "variant": {
+    "index": 6,
+    "line": [
+      "Maya",
+      "I'll send the launch checklist by Tuesday."
+    ]
+  },
+  "ambiguous": [
+    [
+      "Maya",
+      "Hi, I'm Maya Chen, the project lead."
+    ],
+    [
+      "Jordan",
+      "And I'm Jordan Ellis, the designer."
+    ],
+    [
+      "Maya",
+      "Jordan, would you take the vendor handoff by Friday?"
+    ],
+    [
+      "Jordan",
+      "Maybe, if my other meeting moves. Please don't count on me yet."
+    ],
+    [
+      "Maya",
+      "I couldn't hear the last part. Did we agree who owns the vendor handoff?"
+    ],
+    [
+      "Jordan",
+      "Let's clarify that later. I have to go."
+    ]
+  ]
+}

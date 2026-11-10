@@ -1,0 +1,26 @@
+{
+  "fresh": {
+    "items": [
+      {
+        "match": "floor[ -]?plan",
+        "status": "active",
+        "owner": "Owen Reed",
+        "deadline": "Thursday",
+        "deadlineStatus": "relative_unresolved"
+      },
+      {
+        "match": "display cases",
+        "status": "cancelled",
+        "history": true
+      },
+      {
+        "match": "room|opening venue",
+        "status": "open"
+      },
+      {
+        "match": "postcards",
+        "status": "excluded"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "commitlens",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "^20.20.0 || 22.x"
+  },
+  "scripts": {
+    "dev": "node server/launch.mjs server/local.mjs",
+    "start": "node server/launch.mjs server/local.mjs --built",
+    "typecheck": "tsc --noEmit",
+    "build": "tsc --noEmit && vite build --configLoader native",
+    "test": "node --test tests/pipeline.test.mjs",
+    "fixtures": "node tests/generate-fixtures.mjs",
+    "evaluate": "node server/launch.mjs tests/evaluate.mjs"
+  },
+  "dependencies": {
+    "ajv": "8.17.1",
+    "react": "19.2.3",
+    "react-dom": "19.2.3"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "@types/react-dom": "19.2.3",
+    "espeak-ng": "1.0.2",
+    "typescript": "5.9.3",
+    "vite": "6.4.1"
+  }
+}

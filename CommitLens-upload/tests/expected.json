@@ -1,0 +1,64 @@
+{
+  "baseline": {
+    "items": [
+      {
+        "match": "homepage.*wireframe",
+        "status": "active",
+        "owner": "Jordan Ellis",
+        "deadline": "Friday",
+        "deadlineStatus": "relative_unresolved",
+        "history": true
+      },
+      {
+        "match": "launch checklist",
+        "status": "active",
+        "owner": "Maya Chen",
+        "deadline": "Wednesday",
+        "deadlineStatus": "relative_unresolved"
+      },
+      {
+        "match": "newsletter",
+        "status": "cancelled"
+      },
+      {
+        "match": "budget",
+        "status": "active",
+        "owner": null,
+        "deadline": "next Monday",
+        "deadlineStatus": "relative_unresolved"
+      },
+      {
+        "match": "pricing page",
+        "status": "excluded"
+      },
+      {
+        "match": "vendor|webinar",
+        "status": "open"
+      }
+    ]
+  },
+  "variant": {
+    "from": "baseline",
+    "change": {
+      "index": 1,
+      "deadline": "Tuesday"
+    }
+  },
+  "ambiguous": {
+    "items": [
+      {
+        "match": "vendor handoff",
+        "status": [
+          "clarification",
+          "open"
+        ]
+      }
+    ],
+    "optional": [
+      {
+        "match": "vendor handoff",
+        "status": "excluded"
+      }
+    ]
+  }
+}

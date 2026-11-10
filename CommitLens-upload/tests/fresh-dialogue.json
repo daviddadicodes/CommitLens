@@ -1,0 +1,50 @@
+[
+  [
+    "Nina",
+    "I'm Nina Brooks. I lead the museum project."
+  ],
+  [
+    "Owen",
+    "I'm Owen Reed. I handle exhibit design."
+  ],
+  [
+    "Nina",
+    "Can you send the floor plan by Thursday?"
+  ],
+  [
+    "Owen",
+    "Yes. I'll send the floor plan by Thursday."
+  ],
+  [
+    "Nina",
+    "Could we move the floor plan deadline to Wednesday?"
+  ],
+  [
+    "Owen",
+    "I need to check my schedule first."
+  ],
+  [
+    "Nina",
+    "I'll order the display cases by Friday."
+  ],
+  [
+    "Owen",
+    "The museum already has enough display cases. Let's cancel the order."
+  ],
+  [
+    "Nina",
+    "Agreed. I won't order the display cases."
+  ],
+  [
+    "Owen",
+    "Which room should host the opening?"
+  ],
+  [
+    "Nina",
+    "That's still open. We haven't picked a room."
+  ],
+  [
+    "Owen",
+    "We could also print souvenir postcards someday."
+  ]
+]

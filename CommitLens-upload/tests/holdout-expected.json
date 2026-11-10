@@ -1,0 +1,22 @@
+{
+  "holdout": {
+    "items": [
+      {
+        "match": "bus",
+        "status": "active",
+        "owner": "Ben Miller",
+        "deadline": "Tuesday",
+        "deadlineStatus": "relative_unresolved"
+      },
+      {
+        "match": "map",
+        "status": "cancelled",
+        "history": true
+      },
+      {
+        "match": "gate|entrance",
+        "status": "open"
+      }
+    ]
+  }
+}

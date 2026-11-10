@@ -1,0 +1,18 @@
+{
+  "fresh": {
+    "seconds": 2.2602724000000003,
+    "text": "I leave abroad. I leave the museum project. I'm in Reed. I handle exhibit design. Can you send the floor plan by Thursday? Yes, I'll send the floor plan by Thursday. Could we move the floor plan deadline to Wednesday? I need to check my schedule first. I ordered the display cases by Friday. The museum already has enough display cases. Let's cancel the order. Agreed. I won't order the display cases. Which room should host the opening? That's still open. We haven't picked a room. We could also print souvenir postcards someday.",
+    "usage": {
+      "type": "duration",
+      "seconds": 41
+    }
+  },
+  "holdout": {
+    "seconds": 1.6680703,
+    "text": "My name is Ben Smith. Ben Smith. I lead the park project. My name is Ben Miller. Ben Miller. I work on the park project. Can you book the bus by Tuesday? Yes, I will book the bus by Tuesday. I will print the maps by Friday. The park office already printed the maps. Can we cancel your printing task? Yes, cancel it. I will not print the maps. Which gate should we use for the group? We have not picked a gate yet.",
+    "usage": {
+      "type": "duration",
+      "seconds": 33
+    }
+  }
+}

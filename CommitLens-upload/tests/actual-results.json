@@ -1,0 +1,1491 @@
+{
+  "baseline": {
+    "elapsedSeconds": 39.706792,
+    "score": {
+      "trueActive": 3,
+      "unsupportedActive": 0,
+      "cancelledRetainedAsActive": 0,
+      "ownerCorrect": 3,
+      "ownerExpected": 3,
+      "deadlineCorrect": 3,
+      "deadlineExpected": 3,
+      "unresolvedOrAmbiguousFound": 1,
+      "clipsChecked": 27,
+      "falsePositives": [
+        {
+          "title": "Assign owner for budget renewal",
+          "status": "clarification"
+        }
+      ],
+      "falseNegatives": [],
+      "fieldErrors": [],
+      "evidenceErrors": []
+    },
+    "result": {
+      "duration": 58.648916666666665,
+      "transcript": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 0.34999999999999987,
+          "text": "Hi,",
+          "speaker": "A"
+        },
+        {
+          "id": "s2",
+          "start": 0.5499999999999998,
+          "end": 1.3999999999999997,
+          "text": "I'm Maya Chen,",
+          "speaker": "A"
+        },
+        {
+          "id": "s3",
+          "start": 1.6999999999999995,
+          "end": 2.5999999999999996,
+          "text": "the Project Lead.",
+          "speaker": "A"
+        },
+        {
+          "id": "s4",
+          "start": 3.3499999999999988,
+          "end": 4.449999999999998,
+          "text": "And I'm Jordan Ellis,",
+          "speaker": "B"
+        },
+        {
+          "id": "s5",
+          "start": 4.799999999999998,
+          "end": 5.349999999999998,
+          "text": "the Designer.",
+          "speaker": "B"
+        },
+        {
+          "id": "s6",
+          "start": 6.149999999999998,
+          "end": 6.599999999999998,
+          "text": "Jordan,",
+          "speaker": "A"
+        },
+        {
+          "id": "s7",
+          "start": 6.899999999999998,
+          "end": 9.549999999999999,
+          "text": "can you finish the homepage wireframes by Thursday?",
+          "speaker": "A"
+        },
+        {
+          "id": "s8",
+          "start": 10.299999999999999,
+          "end": 10.7,
+          "text": "Yes,",
+          "speaker": "B"
+        },
+        {
+          "id": "s9",
+          "start": 10.899999999999999,
+          "end": 13.499999999999998,
+          "text": "I'll finish the homepage wireframes by Thursday.",
+          "speaker": "B"
+        },
+        {
+          "id": "s10",
+          "start": 14.299999999999999,
+          "end": 14.899999999999999,
+          "text": "Actually,",
+          "speaker": "A"
+        },
+        {
+          "id": "s11",
+          "start": 15.149999999999999,
+          "end": 18.15,
+          "text": "let's move the homepage wireframes deadline to Friday.",
+          "speaker": "A"
+        },
+        {
+          "id": "s12",
+          "start": 18.9,
+          "end": 22.049999999999997,
+          "text": "Agreed, I'll finish the homepage wireframes by Friday.",
+          "speaker": "B"
+        },
+        {
+          "id": "s13",
+          "start": 22.849999999999998,
+          "end": 25.2,
+          "text": "I'll send the launch checklist by Wednesday.",
+          "speaker": "A"
+        },
+        {
+          "id": "s14",
+          "start": 26.076,
+          "end": 26.876,
+          "text": "Sounds good.",
+          "speaker": "B"
+        },
+        {
+          "id": "s15",
+          "start": 27.226000000000003,
+          "end": 29.426000000000002,
+          "text": "I'll prepare the newsletter draft by Tuesday.",
+          "speaker": "B"
+        },
+        {
+          "id": "s16",
+          "start": 30.276,
+          "end": 32.626,
+          "text": "Let's cancel the newsletter draft altogether.",
+          "speaker": "A"
+        },
+        {
+          "id": "s17",
+          "start": 33.576,
+          "end": 34.226,
+          "text": "Agreed.",
+          "speaker": "B"
+        },
+        {
+          "id": "s18",
+          "start": 34.476,
+          "end": 36.076,
+          "text": "The newsletter draft is canceled.",
+          "speaker": "B"
+        },
+        {
+          "id": "s19",
+          "start": 36.876000000000005,
+          "end": 39.326,
+          "text": "We need to renew the budget next Monday,",
+          "speaker": "A"
+        },
+        {
+          "id": "s20",
+          "start": 39.726,
+          "end": 41.326,
+          "text": "let's commit to doing that.",
+          "speaker": "A"
+        },
+        {
+          "id": "s21",
+          "start": 41.976,
+          "end": 44.576,
+          "text": "Agreed. We'll renew the budget next Monday.",
+          "speaker": "B"
+        },
+        {
+          "id": "s22",
+          "start": 44.976,
+          "end": 46.525999999999996,
+          "text": "We can assign someone later.",
+          "speaker": "B"
+        },
+        {
+          "id": "s23",
+          "start": 47.275999999999996,
+          "end": 50.525999999999996,
+          "text": "We can also redesign the pricing page at some point.",
+          "speaker": "A"
+        },
+        {
+          "id": "s24",
+          "start": 51.228,
+          "end": 53.577999999999996,
+          "text": "Which men do shalt post the lunch webinar?",
+          "speaker": "B"
+        },
+        {
+          "id": "s25",
+          "start": 54.478,
+          "end": 55.478,
+          "text": "That's still open.",
+          "speaker": "A"
+        },
+        {
+          "id": "s26",
+          "start": 55.978,
+          "end": 57.678,
+          "text": "We'll decide after we get quotes.",
+          "speaker": "A"
+        }
+      ],
+      "speakers": [
+        {
+          "label": "A",
+          "name": "Maya Chen",
+          "intro": {
+            "segmentId": "s2",
+            "quote": "I'm Maya Chen,",
+            "role": "statement",
+            "start": 0.5499999999999998,
+            "end": 1.3999999999999997,
+            "speaker": "A"
+          }
+        },
+        {
+          "label": "B",
+          "name": "Jordan Ellis",
+          "intro": {
+            "segmentId": "s4",
+            "quote": "And I'm Jordan Ellis,",
+            "role": "statement",
+            "start": 3.3499999999999988,
+            "end": 4.449999999999998,
+            "speaker": "B"
+          }
+        }
+      ],
+      "rejected": [],
+      "items": [
+        {
+          "id": "e8f1234f-0ac1-42e5-87f4-f09bf704eebc",
+          "title": "Finish homepage wireframes",
+          "owner": "Jordan Ellis",
+          "deadline": "Friday",
+          "date": null,
+          "deadlineStatus": "relative_unresolved",
+          "status": "active",
+          "evidence": [
+            {
+              "segmentId": "s7",
+              "quote": "can you finish the homepage wireframes by Thursday?",
+              "role": "question",
+              "start": 6.899999999999998,
+              "end": 9.549999999999999,
+              "speaker": "A"
+            },
+            {
+              "segmentId": "s9",
+              "quote": "I'll finish the homepage wireframes by Thursday.",
+              "role": "statement",
+              "start": 10.899999999999999,
+              "end": 13.499999999999998,
+              "speaker": "B"
+            },
+            {
+              "segmentId": "s11",
+              "quote": "let's move the homepage wireframes deadline to Friday.",
+              "role": "revision",
+              "start": 15.149999999999999,
+              "end": 18.15,
+              "speaker": "A"
+            },
+            {
+              "segmentId": "s12",
+              "quote": "Agreed, I'll finish the homepage wireframes by Friday.",
+              "role": "agreement",
+              "start": 18.9,
+              "end": 22.049999999999997,
+              "speaker": "B"
+            }
+          ],
+          "history": [
+            {
+              "summary": "Jordan Ellis initially committed to finishing homepage wireframes by Thursday.",
+              "evidence": [
+                {
+                  "segmentId": "s7",
+                  "quote": "can you finish the homepage wireframes by Thursday?",
+                  "role": "question",
+                  "start": 6.899999999999998,
+                  "end": 9.549999999999999,
+                  "speaker": "A"
+                },
+                {
+                  "segmentId": "s9",
+                  "quote": "I'll finish the homepage wireframes by Thursday.",
+                  "role": "statement",
+                  "start": 10.899999999999999,
+                  "end": 13.499999999999998,
+                  "speaker": "B"
+                }
+              ]
+            },
+            {
+              "summary": "Deadline moved from Thursday to Friday by mutual agreement.",
+              "evidence": [
+                {
+                  "segmentId": "s11",
+                  "quote": "let's move the homepage wireframes deadline to Friday.",
+                  "role": "revision",
+                  "start": 15.149999999999999,
+                  "end": 18.15,
+                  "speaker": "A"
+                },
+                {
+                  "segmentId": "s12",
+                  "quote": "Agreed, I'll finish the homepage wireframes by Friday.",
+                  "role": "agreement",
+                  "start": 18.9,
+                  "end": 22.049999999999997,
+                  "speaker": "B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ff29ca52-6249-4e6f-ac2b-45d6e4d1c35c",
+          "title": "Send launch checklist",
+          "owner": "Maya Chen",
+          "deadline": "Wednesday",
+          "date": null,
+          "deadlineStatus": "relative_unresolved",
+          "status": "active",
+          "evidence": [
+            {
+              "segmentId": "s13",
+              "quote": "I'll send the launch checklist by Wednesday.",
+              "role": "statement",
+              "start": 22.849999999999998,
+              "end": 25.2,
+              "speaker": "A"
+            }
+          ],
+          "history": []
+        },
+        {
+          "id": "0324dce5-d3b2-4468-b3c2-4c202980ff62",
+          "title": "Prepare newsletter draft",
+          "owner": "Jordan Ellis",
+          "deadline": "Tuesday",
+          "date": null,
+          "deadlineStatus": "relative_unresolved",
+          "status": "cancelled",
+          "evidence": [
+            {
+              "segmentId": "s15",
+              "quote": "I'll prepare the newsletter draft by Tuesday.",
+              "role": "statement",
+              "start": 27.226000000000003,
+              "end": 29.426000000000002,
+              "speaker": "B"
+            },
+            {
+              "segmentId": "s16",
+              "quote": "Let's cancel the newsletter draft altogether.",
+              "role": "cancellation",
+              "start": 30.276,
+              "end": 32.626,
+              "speaker": "A"
+            },
+            {
+              "segmentId": "s17",
+              "quote": "Agreed.",
+              "role": "agreement",
+              "start": 33.576,
+              "end": 34.226,
+              "speaker": "B"
+            },
+            {
+              "segmentId": "s18",
+              "quote": "The newsletter draft is canceled.",
+              "role": "cancellation",
+              "start": 34.476,
+              "end": 36.076,
+              "speaker": "B"
+            }
+          ],
+          "history": [
+            {
+              "summary": "Jordan Ellis committed to preparing newsletter draft by Tuesday.",
+              "evidence": [
+                {
+                  "segmentId": "s15",
+                  "quote": "I'll prepare the newsletter draft by Tuesday.",
+                  "role": "statement",
+                  "start": 27.226000000000003,
+                  "end": 29.426000000000002,
+                  "speaker": "B"
+                }
+              ]
+            },
+            {
+              "summary": "Newsletter draft task cancelled by mutual agreement.",
+              "evidence": [
+                {
+                  "segmentId": "s16",
+                  "quote": "Let's cancel the newsletter draft altogether.",
+                  "role": "cancellation",
+                  "start": 30.276,
+                  "end": 32.626,
+                  "speaker": "A"
+                },
+                {
+                  "segmentId": "s17",
+                  "quote": "Agreed.",
+                  "role": "agreement",
+                  "start": 33.576,
+                  "end": 34.226,
+                  "speaker": "B"
+                },
+                {
+                  "segmentId": "s18",
+                  "quote": "The newsletter draft is canceled.",
+                  "role": "cancellation",
+                  "start": 34.476,
+                  "end": 36.076,
+                  "speaker": "B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ec336c93-60b7-4797-9fd5-c41aeba93d69",
+          "title": "Renew the budget",
+          "owner": null,
+          "deadline": "next Monday",
+          "date": null,
+          "deadlineStatus": "relative_unresolved",
+          "status": "active",
+          "evidence": [
+            {
+              "segmentId": "s19",
+              "quote": "We need to renew the budget next Monday,",
+              "role": "statement",
+              "start": 36.876000000000005,
+              "end": 39.326,
+              "speaker": "A"
+            },
+            {
+              "segmentId": "s20",
+              "quote": "let's commit to doing that.",
+              "role": "agreement",
+              "start": 39.726,
+              "end": 41.326,
+              "speaker": "A"
+            },
+            {
+              "segmentId": "s21",
+              "quote": "Agreed. We'll renew the budget next Monday.",
+              "role": "agreement",
+              "start": 41.976,
+              "end": 44.576,
+              "speaker": "B"
+            }
+          ],
+          "history": []
+        },
+        {
+          "id": "247b0a1e-6c07-4125-bd31-8e3d587e07a6",
+          "title": "Assign owner for budget renewal",
+          "owner": null,
+          "deadline": null,
+          "date": null,
+          "deadlineStatus": "none",
+          "status": "clarification",
+          "evidence": [
+            {
+              "segmentId": "s22",
+              "quote": "We can assign someone later.",
+              "role": "statement",
+              "start": 44.976,
+              "end": 46.525999999999996,
+              "speaker": "B"
+            }
+          ],
+          "history": []
+        },
+        {
+          "id": "6aa26585-ea6d-4efd-9830-2dd209f963d0",
+          "title": "Redesign the pricing page",
+          "owner": null,
+          "deadline": null,
+          "date": null,
+          "deadlineStatus": "none",
+          "status": "excluded",
+          "evidence": [
+            {
+              "segmentId": "s23",
+              "quote": "We can also redesign the pricing page at some point.",
+              "role": "statement",
+              "start": 47.275999999999996,
+              "end": 50.525999999999996,
+              "speaker": "A"
+            }
+          ],
+          "history": []
+        },
+        {
+          "id": "36b98424-74d1-48e0-9c04-76de689265b0",
+          "title": "Decide who will post the lunch webinar",
+          "owner": null,
+          "deadline": null,
+          "date": null,
+          "deadlineStatus": "none",
+          "status": "open",
+          "evidence": [
+            {
+              "segmentId": "s24",
+              "quote": "Which men do shalt post the lunch webinar?",
+              "role": "question",
+              "start": 51.228,
+              "end": 53.577999999999996,
+              "speaker": "B"
+            },
+            {
+              "segmentId": "s25",
+              "quote": "That's still open.",
+              "role": "statement",
+              "start": 54.478,
+              "end": 55.478,
+              "speaker": "A"
+            },
+            {
+              "segmentId": "s26",
+              "quote": "We'll decide after we get quotes.",
+              "role": "statement",
+              "start": 55.978,
+              "end": 57.678,
+              "speaker": "A"
+            }
+          ],
+          "history": []
+        }
+      ],
+      "metrics": {
+        "calls": 3,
+        "retries": 0,
+        "seconds": {
+          "transcription": 29.8851665,
+          "extraction": 6.255899999999998,
+          "total": 39.70427,
+          "validation": 3.561512999999999
+        },
+        "costs": {
+          "transcription": 0.01989,
+          "extraction": 0.0021684,
+          "validation": 0.0020016
+        },
+        "usd": 0.02406,
+        "usdPerMinute": 0.02461426539563817
+      }
+    }
+  },
+  "variant": {
+    "elapsedSeconds": 41.79835260000001,
+    "score": {
+      "trueActive": 1,
+      "unsupportedActive": 2,
+      "cancelledRetainedAsActive": 0,
+      "ownerCorrect": 1,
+      "ownerExpected": 3,
+      "deadlineCorrect": 1,
+      "deadlineExpected": 3,
+      "unresolvedOrAmbiguousFound": 1,
+      "clipsChecked": 32,
+      "falsePositives": [
+        {
+          "title": "Finish Home Page wire frames",
+          "status": "active"
+        },
+        {
+          "title": "Send lunch checklist",
+          "status": "active"
+        },
+        {
+          "title": "Assign someone to renew budget",
+          "status": "clarification"
+        }
+      ],
+      "falseNegatives": [
+        {
+          "match": "homepage.*wireframe",
+          "status": "active",
+          "owner": "Jordan Ellis",
+          "deadline": "Friday",
+          "deadlineStatus": "relative_unresolved",
+          "history": true
+        },
+        {
+          "match": "launch checklist",
+          "status": "active",
+          "owner": "Maya Chen",
+          "deadline": "Tuesday",
+          "deadlineStatus": "relative_unresolved"
+        }
+      ],
+      "fieldErrors": [],
+      "evidenceErrors": []
+    },
+    "result": {
+      "duration": 58.5695,
+      "transcript": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 0.30000000000000004,
+          "text": "Hi,",
+          "speaker": "A"
+        },
+        {
+          "id": "s2",
+          "start": 0.55,
+          "end": 1.45,
+          "text": "I'm Maya10,",
+          "speaker": "A"
+        },
+        {
+          "id": "s3",
+          "start": 1.6500000000000001,
+          "end": 2.7,
+          "text": "the Product Lead.",
+          "speaker": "A"
+        },
+        {
+          "id": "s4",
+          "start": 3.4000000000000004,
+          "end": 4.55,
+          "text": "And I'm Jordan Ellis,",
+          "speaker": "B"
+        },
+        {
+          "id": "s5",
+          "start": 4.8,
+          "end": 5.3,
+          "text": "the Designer.",
+          "speaker": "B"
+        },
+        {
+          "id": "s6",
+          "start": 6.1499999999999995,
+          "end": 6.6,
+          "text": "Jordan,",
+          "speaker": "A"
+        },
+        {
+          "id": "s7",
+          "start": 6.8999999999999995,
+          "end": 9.55,
+          "text": "can you finish the Home Page wire frames by Thursday?",
+          "speaker": "A"
+        },
+        {
+          "id": "s8",
+          "start": 10.3,
+          "end": 10.700000000000001,
+          "text": "Yes,",
+          "speaker": "B"
+        },
+        {
+          "id": "s9",
+          "start": 10.950000000000001,
+          "end": 13.4,
+          "text": "I'll finish the Home Page wire frames by Thursday.",
+          "speaker": "B"
+        },
+        {
+          "id": "s10",
+          "start": 14.3,
+          "end": 14.900000000000002,
+          "text": "Actually,",
+          "speaker": "A"
+        },
+        {
+          "id": "s11",
+          "start": 15.200000000000003,
+          "end": 18.150000000000002,
+          "text": "let's move the Home Page wire frames deadline to Friday.",
+          "speaker": "A"
+        },
+        {
+          "id": "s12",
+          "start": 18.900000000000002,
+          "end": 22.1,
+          "text": "Agreed, I'll finish the Home Page wire frames by Friday.",
+          "speaker": "B"
+        },
+        {
+          "id": "s13",
+          "start": 22.85,
+          "end": 25.1,
+          "text": "I'll send the lunch checklist by Tuesday.",
+          "speaker": "A"
+        },
+        {
+          "id": "s14",
+          "start": 25.98,
+          "end": 26.78,
+          "text": "Sounds good.",
+          "speaker": "B"
+        },
+        {
+          "id": "s15",
+          "start": 27.080000000000002,
+          "end": 29.43,
+          "text": "I'll prepare the newsletter draft by Tuesday.",
+          "speaker": "B"
+        },
+        {
+          "id": "s16",
+          "start": 30.18,
+          "end": 32.43,
+          "text": "Let's cancel the newsletter draft altogether.",
+          "speaker": "A"
+        },
+        {
+          "id": "s17",
+          "start": 33.53,
+          "end": 36.03,
+          "text": "Agreed. The newsletter draft is canceled.",
+          "speaker": "B"
+        },
+        {
+          "id": "s18",
+          "start": 36.83,
+          "end": 39.230000000000004,
+          "text": "We need to renew the budget next Monday.",
+          "speaker": "A"
+        },
+        {
+          "id": "s19",
+          "start": 39.63,
+          "end": 41.18000000000001,
+          "text": "Let's commit to doing that.",
+          "speaker": "A"
+        },
+        {
+          "id": "s20",
+          "start": 41.88,
+          "end": 44.53,
+          "text": "Agreed. We'll renew the budget next Monday.",
+          "speaker": "B"
+        },
+        {
+          "id": "s21",
+          "start": 44.93,
+          "end": 46.43,
+          "text": "We can assign someone later.",
+          "speaker": "B"
+        },
+        {
+          "id": "s22",
+          "start": 47.230000000000004,
+          "end": 50.33,
+          "text": "We could also redesign the pricing page at some point.",
+          "speaker": "A"
+        },
+        {
+          "id": "s23",
+          "start": 50.932,
+          "end": 53.482,
+          "text": "Which vendor should host the lunch webinar?",
+          "speaker": "B"
+        },
+        {
+          "id": "s24",
+          "start": 54.382000000000005,
+          "end": 57.682,
+          "text": "That's still open; we'll decide after we get quotes.",
+          "speaker": "A"
+        }
+      ],
+      "speakers": [
+        {
+          "label": "A",
+          "name": "Maya10",
+          "intro": {
+            "segmentId": "s2",
+            "quote": "I'm Maya10,",
+            "role": "statement",
+            "start": 0.55,
+            "end": 1.45,
+            "speaker": "A"
+          }
+        },
+        {
+          "label": "B",
+          "name": "Jordan Ellis",
+          "intro": {
+            "segmentId": "s4",
+            "quote": "And I'm Jordan Ellis,",
+            "role": "statement",
+            "start": 3.4000000000000004,
+            "end": 4.55,
+            "speaker": "B"
+          }
+        }
+      ],
+      "rejected": [],
+      "items": [
+        {
+          "id": "d1195a00-197c-4603-af63-20b97d8f4f6a",
+          "title": "Finish Home Page wire frames",
+          "owner": "Jordan Ellis",
+          "deadline": "Friday",
+          "date": null,
+          "deadlineStatus": "relative_unresolved",
+          "status": "active",
+          "evidence": [
+            {
+              "segmentId": "s7",
+              "quote": "can you finish the Home Page wire frames by Thursday?",
+              "role": "question",
+              "start": 6.8999999999999995,
+              "end": 9.55,
+              "speaker": "A"
+            },
+            {
+              "segmentId": "s9",
+              "quote": "I'll finish the Home Page wire frames by Thursday.",
+              "role": "statement",
+              "start": 10.950000000000001,
+              "end": 13.4,
+              "speaker": "B"
+            },
+            {
+              "segmentId": "s11",
+              "quote": "let's move the Home Page wire frames deadline to Friday.",
+              "role": "revision",
+              "start": 15.200000000000003,
+              "end": 18.150000000000002,
+              "speaker": "A"
+            },
+            {
+              "segmentId": "s12",
+              "quote": "Agreed, I'll finish the Home Page wire frames by Friday.",
+              "role": "agreement",
+              "start": 18.900000000000002,
+              "end": 22.1,
+              "speaker": "B"
+            }
+          ],
+          "history": [
+            {
+              "summary": "Initial commitment to finish Home Page wire frames by Thursday.",
+              "evidence": [
+                {
+                  "segmentId": "s7",
+                  "quote": "can you finish the Home Page wire frames by Thursday?",
+                  "role": "question",
+                  "start": 6.8999999999999995,
+                  "end": 9.55,
+                  "speaker": "A"
+                },
+                {
+                  "segmentId": "s9",
+                  "quote": "I'll finish the Home Page wire frames by Thursday.",
+                  "role": "statement",
+                  "start": 10.950000000000001,
+                  "end": 13.4,
+                  "speaker": "B"
+                }
+              ]
+            },
+            {
+              "summary": "Deadline moved from Thursday to Friday and commitment updated.",
+              "evidence": [
+                {
+                  "segmentId": "s11",
+                  "quote": "let's move the Home Page wire frames deadline to Friday.",
+                  "role": "revision",
+                  "start": 15.200000000000003,
+                  "end": 18.150000000000002,
+                  "speaker": "A"
+                },
+                {
+                  "segmentId": "s12",
+                  "quote": "Agreed, I'll finish the Home Page wire frames by Friday.",
+                  "role": "agreement",
+                  "start": 18.900000000000002,
+                  "end": 22.1,
+                  "speaker": "B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3da87a45-599a-4f53-8150-88dd77510ee4",
+          "title": "Send lunch checklist",
+          "owner": "Maya10",
+          "deadline": "Tuesday",
+          "date": null,
+          "deadlineStatus": "relative_unresolved",
+          "status": "active",
+          "evidence": [
+            {
+              "segmentId": "s13",
+              "quote": "I'll send the lunch checklist by Tuesday.",
+              "role": "statement",
+              "start": 22.85,
+              "end": 25.1,
+              "speaker": "A"
+            }
+          ],
+          "history": [
+            {
+              "summary": "Commitment to send lunch checklist by Tuesday.",
+              "evidence": [
+                {
+                  "segmentId": "s13",
+                  "quote": "I'll send the lunch checklist by Tuesday.",
+                  "role": "statement",
+                  "start": 22.85,
+                  "end": 25.1,
+                  "speaker": "A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7b720dd8-268e-40d0-966e-dc44a204a59b",
+          "title": "Prepare newsletter draft",
+          "owner": "Jordan Ellis",
+          "deadline": "Tuesday",
+          "date": null,
+          "deadlineStatus": "relative_unresolved",
+          "status": "cancelled",
+          "evidence": [
+            {
+              "segmentId": "s15",
+              "quote": "I'll prepare the newsletter draft by Tuesday.",
+              "role": "statement",
+              "start": 27.080000000000002,
+              "end": 29.43,
+              "speaker": "B"
+            },
+            {
+              "segmentId": "s16",
+              "quote": "Let's cancel the newsletter draft altogether.",
+              "role": "cancellation",
+              "start": 30.18,
+              "end": 32.43,
+              "speaker": "A"
+            },
+            {
+              "segmentId": "s17",
+              "quote": "Agreed. The newsletter draft is canceled.",
+              "role": "agreement",
+              "start": 33.53,
+              "end": 36.03,
+              "speaker": "B"
+            }
+          ],
+          "history": [
+            {
+              "summary": "Initial commitment to prepare newsletter draft by Tuesday.",
+              "evidence": [
+                {
+                  "segmentId": "s15",
+                  "quote": "I'll prepare the newsletter draft by Tuesday.",
+                  "role": "statement",
+                  "start": 27.080000000000002,
+                  "end": 29.43,
+                  "speaker": "B"
+                }
+              ]
+            },
+            {
+              "summary": "Newsletter draft task cancelled.",
+              "evidence": [
+                {
+                  "segmentId": "s16",
+                  "quote": "Let's cancel the newsletter draft altogether.",
+                  "role": "cancellation",
+                  "start": 30.18,
+                  "end": 32.43,
+                  "speaker": "A"
+                },
+                {
+                  "segmentId": "s17",
+                  "quote": "Agreed. The newsletter draft is canceled.",
+                  "role": "agreement",
+                  "start": 33.53,
+                  "end": 36.03,
+                  "speaker": "B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "717ea847-62ad-4730-95f1-a34c1b17069b",
+          "title": "Renew budget",
+          "owner": null,
+          "deadline": "next Monday",
+          "date": null,
+          "deadlineStatus": "relative_unresolved",
+          "status": "active",
+          "evidence": [
+            {
+              "segmentId": "s18",
+              "quote": "We need to renew the budget next Monday.",
+              "role": "statement",
+              "start": 36.83,
+              "end": 39.230000000000004,
+              "speaker": "A"
+            },
+            {
+              "segmentId": "s19",
+              "quote": "Let's commit to doing that.",
+              "role": "statement",
+              "start": 39.63,
+              "end": 41.18000000000001,
+              "speaker": "A"
+            },
+            {
+              "segmentId": "s20",
+              "quote": "Agreed. We'll renew the budget next Monday.",
+              "role": "agreement",
+              "start": 41.88,
+              "end": 44.53,
+              "speaker": "B"
+            }
+          ],
+          "history": [
+            {
+              "summary": "Agreement to renew budget next Monday without assigned owner.",
+              "evidence": [
+                {
+                  "segmentId": "s18",
+                  "quote": "We need to renew the budget next Monday.",
+                  "role": "statement",
+                  "start": 36.83,
+                  "end": 39.230000000000004,
+                  "speaker": "A"
+                },
+                {
+                  "segmentId": "s19",
+                  "quote": "Let's commit to doing that.",
+                  "role": "statement",
+                  "start": 39.63,
+                  "end": 41.18000000000001,
+                  "speaker": "A"
+                },
+                {
+                  "segmentId": "s20",
+                  "quote": "Agreed. We'll renew the budget next Monday.",
+                  "role": "agreement",
+                  "start": 41.88,
+                  "end": 44.53,
+                  "speaker": "B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cd29a5c4-304e-456f-b2e3-dc591cac755e",
+          "title": "Assign someone to renew budget",
+          "owner": null,
+          "deadline": null,
+          "date": null,
+          "deadlineStatus": "none",
+          "status": "clarification",
+          "evidence": [
+            {
+              "segmentId": "s21",
+              "quote": "We can assign someone later.",
+              "role": "statement",
+              "start": 44.93,
+              "end": 46.43,
+              "speaker": "B"
+            }
+          ],
+          "history": [
+            {
+              "summary": "Assignment for budget renewal owner deferred, ownership unclear.",
+              "evidence": [
+                {
+                  "segmentId": "s21",
+                  "quote": "We can assign someone later.",
+                  "role": "statement",
+                  "start": 44.93,
+                  "end": 46.43,
+                  "speaker": "B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cef3bee2-2535-4c77-ac58-b4750dc8ee16",
+          "title": "Redesign pricing page",
+          "owner": null,
+          "deadline": null,
+          "date": null,
+          "deadlineStatus": "none",
+          "status": "excluded",
+          "evidence": [
+            {
+              "segmentId": "s22",
+              "quote": "We could also redesign the pricing page at some point.",
+              "role": "statement",
+              "start": 47.230000000000004,
+              "end": 50.33,
+              "speaker": "A"
+            }
+          ],
+          "history": [
+            {
+              "summary": "Redesign pricing page suggested but not agreed as a task.",
+              "evidence": [
+                {
+                  "segmentId": "s22",
+                  "quote": "We could also redesign the pricing page at some point.",
+                  "role": "statement",
+                  "start": 47.230000000000004,
+                  "end": 50.33,
+                  "speaker": "A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4d8a302c-96b1-4499-84a2-f4251f1fff83",
+          "title": "Decide vendor for lunch webinar hosting",
+          "owner": null,
+          "deadline": null,
+          "date": null,
+          "deadlineStatus": "none",
+          "status": "open",
+          "evidence": [
+            {
+              "segmentId": "s23",
+              "quote": "Which vendor should host the lunch webinar?",
+              "role": "question",
+              "start": 50.932,
+              "end": 53.482,
+              "speaker": "B"
+            },
+            {
+              "segmentId": "s24",
+              "quote": "That's still open; we'll decide after we get quotes.",
+              "role": "statement",
+              "start": 54.382000000000005,
+              "end": 57.682,
+              "speaker": "A"
+            }
+          ],
+          "history": [
+            {
+              "summary": "Question about vendor for lunch webinar hosting remains unanswered.",
+              "evidence": [
+                {
+                  "segmentId": "s23",
+                  "quote": "Which vendor should host the lunch webinar?",
+                  "role": "question",
+                  "start": 50.932,
+                  "end": 53.482,
+                  "speaker": "B"
+                },
+                {
+                  "segmentId": "s24",
+                  "quote": "That's still open; we'll decide after we get quotes.",
+                  "role": "statement",
+                  "start": 54.382000000000005,
+                  "end": 57.682,
+                  "speaker": "A"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metrics": {
+        "calls": 3,
+        "retries": 0,
+        "seconds": {
+          "transcription": 30.477639600000003,
+          "extraction": 8.541566000000007,
+          "total": 41.7972636,
+          "validation": 2.7779079999999956
+        },
+        "costs": {
+          "transcription": 0.019505,
+          "extraction": 0.0024844,
+          "validation": 0.0018912000000000002
+        },
+        "usd": 0.023880600000000002,
+        "usdPerMinute": 0.024463859175850915
+      }
+    }
+  },
+  "ambiguous": {
+    "elapsedSeconds": 14.119261700000003,
+    "score": {
+      "trueActive": 0,
+      "unsupportedActive": 0,
+      "cancelledRetainedAsActive": 0,
+      "ownerCorrect": 0,
+      "ownerExpected": 0,
+      "deadlineCorrect": 0,
+      "deadlineExpected": 0,
+      "unresolvedOrAmbiguousFound": 0,
+      "clipsChecked": 11,
+      "falsePositives": [
+        {
+          "title": "Ownership of the Menger hand off",
+          "status": "clarification"
+        }
+      ],
+      "falseNegatives": [
+        {
+          "match": "vendor handoff",
+          "status": [
+            "clarification",
+            "open"
+          ]
+        }
+      ],
+      "fieldErrors": [],
+      "evidenceErrors": []
+    },
+    "result": {
+      "duration": 23.649416666666667,
+      "transcript": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 0.30000000000000004,
+          "text": "Hi,",
+          "speaker": "A"
+        },
+        {
+          "id": "s2",
+          "start": 0.55,
+          "end": 1.4000000000000001,
+          "text": "I'm Maya Chen,",
+          "speaker": "A"
+        },
+        {
+          "id": "s3",
+          "start": 1.7,
+          "end": 2.7,
+          "text": "the Project Lead.",
+          "speaker": "A"
+        },
+        {
+          "id": "s4",
+          "start": 3.3999999999999995,
+          "end": 4.499999999999999,
+          "text": "And I'm Jordan Ellis,",
+          "speaker": "B"
+        },
+        {
+          "id": "s5",
+          "start": 4.799999999999999,
+          "end": 5.349999999999999,
+          "text": "the Designer.",
+          "speaker": "B"
+        },
+        {
+          "id": "s6",
+          "start": 6.149999999999999,
+          "end": 6.599999999999999,
+          "text": "Jordan,",
+          "speaker": "A"
+        },
+        {
+          "id": "s7",
+          "start": 6.849999999999999,
+          "end": 9.1,
+          "text": "won't you take the Menger hand off my Friday?",
+          "speaker": "A"
+        },
+        {
+          "id": "s8",
+          "start": 9.85,
+          "end": 10.25,
+          "text": "Maybe,",
+          "speaker": "B"
+        },
+        {
+          "id": "s9",
+          "start": 10.55,
+          "end": 11.850000000000001,
+          "text": "if my other meeting moves.",
+          "speaker": "B"
+        },
+        {
+          "id": "s10",
+          "start": 12.350000000000001,
+          "end": 14.100000000000001,
+          "text": "Please don't count on me yet.",
+          "speaker": "B"
+        },
+        {
+          "id": "s11",
+          "start": 14.750000000000002,
+          "end": 16.500000000000004,
+          "text": "I couldn't hear the last part.",
+          "speaker": "A"
+        },
+        {
+          "id": "s12",
+          "start": 16.900000000000002,
+          "end": 19.400000000000002,
+          "text": "Did we agree who owns the Menger hand off?",
+          "speaker": "A"
+        },
+        {
+          "id": "s13",
+          "start": 20.05,
+          "end": 21.5,
+          "text": "Let's clarify that later.",
+          "speaker": "B"
+        },
+        {
+          "id": "s14",
+          "start": 21.95,
+          "end": 22.8,
+          "text": "I have to go.",
+          "speaker": "B"
+        }
+      ],
+      "speakers": [
+        {
+          "label": "A",
+          "name": "Maya Chen",
+          "intro": {
+            "segmentId": "s2",
+            "quote": "I'm Maya Chen,",
+            "role": "statement",
+            "start": 0.55,
+            "end": 1.4000000000000001,
+            "speaker": "A"
+          }
+        },
+        {
+          "label": "B",
+          "name": "Jordan Ellis",
+          "intro": {
+            "segmentId": "s4",
+            "quote": "And I'm Jordan Ellis,",
+            "role": "statement",
+            "start": 3.3999999999999995,
+            "end": 4.499999999999999,
+            "speaker": "B"
+          }
+        }
+      ],
+      "rejected": [],
+      "items": [
+        {
+          "id": "fc0d7656-a156-487e-b9b5-4ef2bcb60e88",
+          "title": "Ownership of the Menger hand off",
+          "owner": null,
+          "deadline": null,
+          "date": null,
+          "deadlineStatus": "none",
+          "status": "clarification",
+          "evidence": [
+            {
+              "segmentId": "s12",
+              "quote": "Did we agree who owns the Menger hand off?",
+              "role": "question",
+              "start": 16.900000000000002,
+              "end": 19.400000000000002,
+              "speaker": "A"
+            },
+            {
+              "segmentId": "s13",
+              "quote": "Let's clarify that later.",
+              "role": "statement",
+              "start": 20.05,
+              "end": 21.5,
+              "speaker": "B"
+            }
+          ],
+          "history": [
+            {
+              "summary": "Maya Chen asked if Jordan Ellis would take the Menger hand off on Friday.",
+              "evidence": [
+                {
+                  "segmentId": "s6",
+                  "quote": "Jordan,",
+                  "role": "statement",
+                  "start": 6.149999999999999,
+                  "end": 6.599999999999999,
+                  "speaker": "A"
+                },
+                {
+                  "segmentId": "s7",
+                  "quote": "won't you take the Menger hand off my Friday?",
+                  "role": "question",
+                  "start": 6.849999999999999,
+                  "end": 9.1,
+                  "speaker": "A"
+                }
+              ]
+            },
+            {
+              "summary": "Jordan Ellis replied conditionally about taking the Menger hand off if another meeting moves, but asked not to be counted on yet.",
+              "evidence": [
+                {
+                  "segmentId": "s8",
+                  "quote": "Maybe,",
+                  "role": "statement",
+                  "start": 9.85,
+                  "end": 10.25,
+                  "speaker": "B"
+                },
+                {
+                  "segmentId": "s9",
+                  "quote": "if my other meeting moves.",
+                  "role": "statement",
+                  "start": 10.55,
+                  "end": 11.850000000000001,
+                  "speaker": "B"
+                },
+                {
+                  "segmentId": "s10",
+                  "quote": "Please don't count on me yet.",
+                  "role": "statement",
+                  "start": 12.350000000000001,
+                  "end": 14.100000000000001,
+                  "speaker": "B"
+                }
+              ]
+            },
+            {
+              "summary": "Maya Chen asked if ownership of the Menger hand off was agreed.",
+              "evidence": [
+                {
+                  "segmentId": "s12",
+                  "quote": "Did we agree who owns the Menger hand off?",
+                  "role": "question",
+                  "start": 16.900000000000002,
+                  "end": 19.400000000000002,
+                  "speaker": "A"
+                }
+              ]
+            },
+            {
+              "summary": "Jordan Ellis deferred clarification of ownership to later.",
+              "evidence": [
+                {
+                  "segmentId": "s13",
+                  "quote": "Let's clarify that later.",
+                  "role": "statement",
+                  "start": 20.05,
+                  "end": 21.5,
+                  "speaker": "B"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metrics": {
+        "calls": 3,
+        "retries": 0,
+        "seconds": {
+          "transcription": 9.736324099999997,
+          "extraction": 2.843470499999996,
+          "total": 14.118972399999999,
+          "validation": 1.5390214000000124
+        },
+        "costs": {
+          "transcription": 0.00764,
+          "extraction": 0.001134,
+          "validation": 0.0008403999999999999
+        },
+        "usd": 0.0096144,
+        "usdPerMinute": 0.02439231411627489
+      }
+    }
+  }
+}

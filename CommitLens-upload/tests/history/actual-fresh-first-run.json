@@ -1,0 +1,383 @@
+{
+  "fresh": {
+    "elapsedSeconds": 25.8449577,
+    "score": {
+      "trueActive": 1,
+      "unsupportedActive": 0,
+      "cancelledRetainedAsActive": 0,
+      "ownerCorrect": 0,
+      "ownerExpected": 1,
+      "deadlineCorrect": 1,
+      "deadlineExpected": 1,
+      "unresolvedOrAmbiguousFound": 1,
+      "clipsChecked": 17,
+      "falsePositives": [
+        {
+          "title": "Cancel order of display cases",
+          "status": "decision"
+        }
+      ],
+      "falseNegatives": [
+        {
+          "match": "display cases",
+          "status": "cancelled",
+          "history": true
+        }
+      ],
+      "fieldErrors": [
+        {
+          "item": "Send floor plans",
+          "field": "owner",
+          "expected": "Owen Reed",
+          "actual": "B"
+        }
+      ],
+      "evidenceErrors": []
+    },
+    "result": {
+      "duration": 40.90625,
+      "transcript": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 2.75,
+          "text": "I mean the roads-I mean the Museum project.",
+          "speaker": "A"
+        },
+        {
+          "id": "s2",
+          "start": 3.55,
+          "end": 6.35,
+          "text": "I know indeed-I handle exhibit design.",
+          "speaker": "B"
+        },
+        {
+          "id": "s3",
+          "start": 7.1499999999999995,
+          "end": 9.4,
+          "text": "Can you send the floor plans by Thursday?",
+          "speaker": "A"
+        },
+        {
+          "id": "s4",
+          "start": 10.1,
+          "end": 12.9,
+          "text": "Yes-I'll send the floor plan by Thursday.",
+          "speaker": "B"
+        },
+        {
+          "id": "s5",
+          "start": 13.75,
+          "end": 16.3,
+          "text": "Could we move the floor plan deadline to Wednesday?",
+          "speaker": "A"
+        },
+        {
+          "id": "s6",
+          "start": 17.05,
+          "end": 18.95,
+          "text": "I need to check my schedule first.",
+          "speaker": "B"
+        },
+        {
+          "id": "s7",
+          "start": 19.65,
+          "end": 21.849999999999998,
+          "text": "I'll order the display cases by Friday.",
+          "speaker": "A"
+        },
+        {
+          "id": "s8",
+          "start": 22.599999999999998,
+          "end": 25.049999999999997,
+          "text": "The museum already has enough display cases.",
+          "speaker": "B"
+        },
+        {
+          "id": "s9",
+          "start": 25.449999999999996,
+          "end": 26.749999999999996,
+          "text": "Let's cancel the order.",
+          "speaker": "B"
+        },
+        {
+          "id": "s10",
+          "start": 27.58,
+          "end": 30.229999999999997,
+          "text": "Agreed; I won't order the display cases.",
+          "speaker": "A"
+        },
+        {
+          "id": "s11",
+          "start": 30.979999999999997,
+          "end": 32.73,
+          "text": "Which room should boast the opening?",
+          "speaker": "B"
+        },
+        {
+          "id": "s12",
+          "start": 33.58,
+          "end": 36.58,
+          "text": "That's still open; we haven't picked a room.",
+          "speaker": "A"
+        },
+        {
+          "id": "s13",
+          "start": 37.23,
+          "end": 40.18,
+          "text": "We could also print souvenir postcards some day.",
+          "speaker": "B"
+        }
+      ],
+      "speakers": [],
+      "rejected": [],
+      "items": [
+        {
+          "id": "9a267ee5-1e6d-4ddf-b37e-312825bff644",
+          "title": "Send floor plans",
+          "owner": "B",
+          "deadline": "Thursday",
+          "date": null,
+          "deadlineStatus": "relative_unresolved",
+          "status": "active",
+          "evidence": [
+            {
+              "segmentId": "s3",
+              "quote": "Can you send the floor plans by Thursday?",
+              "role": "question",
+              "start": 7.1499999999999995,
+              "end": 9.4,
+              "speaker": "A"
+            },
+            {
+              "segmentId": "s4",
+              "quote": "Yes-I'll send the floor plan by Thursday.",
+              "role": "agreement",
+              "start": 10.1,
+              "end": 12.9,
+              "speaker": "B"
+            }
+          ],
+          "history": [
+            {
+              "summary": "Initial request for floor plans by Thursday.",
+              "evidence": [
+                {
+                  "segmentId": "s3",
+                  "quote": "Can you send the floor plans by Thursday?",
+                  "role": "question",
+                  "start": 7.1499999999999995,
+                  "end": 9.4,
+                  "speaker": "A"
+                }
+              ]
+            },
+            {
+              "summary": "Agreement to send floor plans by Thursday.",
+              "evidence": [
+                {
+                  "segmentId": "s4",
+                  "quote": "Yes-I'll send the floor plan by Thursday.",
+                  "role": "agreement",
+                  "start": 10.1,
+                  "end": 12.9,
+                  "speaker": "B"
+                }
+              ]
+            },
+            {
+              "summary": "Request to move deadline to Wednesday; no agreement yet.",
+              "evidence": [
+                {
+                  "segmentId": "s5",
+                  "quote": "Could we move the floor plan deadline to Wednesday?",
+                  "role": "question",
+                  "start": 13.75,
+                  "end": 16.3,
+                  "speaker": "A"
+                },
+                {
+                  "segmentId": "s6",
+                  "quote": "I need to check my schedule first.",
+                  "role": "statement",
+                  "start": 17.05,
+                  "end": 18.95,
+                  "speaker": "B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3ce8aa16-e5b7-4024-89f2-291c521eedd8",
+          "title": "Cancel order of display cases",
+          "owner": null,
+          "deadline": null,
+          "date": null,
+          "deadlineStatus": "none",
+          "status": "decision",
+          "evidence": [
+            {
+              "segmentId": "s9",
+              "quote": "Let's cancel the order.",
+              "role": "agreement",
+              "start": 25.449999999999996,
+              "end": 26.749999999999996,
+              "speaker": "B"
+            },
+            {
+              "segmentId": "s10",
+              "quote": "Agreed; I won't order the display cases.",
+              "role": "agreement",
+              "start": 27.58,
+              "end": 30.229999999999997,
+              "speaker": "A"
+            }
+          ],
+          "history": [
+            {
+              "summary": "B states museum has enough display cases and suggests cancelling order.",
+              "evidence": [
+                {
+                  "segmentId": "s8",
+                  "quote": "The museum already has enough display cases.",
+                  "role": "statement",
+                  "start": 22.599999999999998,
+                  "end": 25.049999999999997,
+                  "speaker": "B"
+                },
+                {
+                  "segmentId": "s9",
+                  "quote": "Let's cancel the order.",
+                  "role": "agreement",
+                  "start": 25.449999999999996,
+                  "end": 26.749999999999996,
+                  "speaker": "B"
+                }
+              ]
+            },
+            {
+              "summary": "A agrees not to order display cases.",
+              "evidence": [
+                {
+                  "segmentId": "s10",
+                  "quote": "Agreed; I won't order the display cases.",
+                  "role": "agreement",
+                  "start": 27.58,
+                  "end": 30.229999999999997,
+                  "speaker": "A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "910051fa-84fc-41f2-9615-7636fa685603",
+          "title": "Decide which room should host the opening",
+          "owner": null,
+          "deadline": null,
+          "date": null,
+          "deadlineStatus": "none",
+          "status": "open",
+          "evidence": [
+            {
+              "segmentId": "s11",
+              "quote": "Which room should boast the opening?",
+              "role": "question",
+              "start": 30.979999999999997,
+              "end": 32.73,
+              "speaker": "B"
+            },
+            {
+              "segmentId": "s12",
+              "quote": "That's still open; we haven't picked a room.",
+              "role": "statement",
+              "start": 33.58,
+              "end": 36.58,
+              "speaker": "A"
+            }
+          ],
+          "history": [
+            {
+              "summary": "B asks which room should host the opening.",
+              "evidence": [
+                {
+                  "segmentId": "s11",
+                  "quote": "Which room should boast the opening?",
+                  "role": "question",
+                  "start": 30.979999999999997,
+                  "end": 32.73,
+                  "speaker": "B"
+                }
+              ]
+            },
+            {
+              "summary": "A states the decision is still open.",
+              "evidence": [
+                {
+                  "segmentId": "s12",
+                  "quote": "That's still open; we haven't picked a room.",
+                  "role": "statement",
+                  "start": 33.58,
+                  "end": 36.58,
+                  "speaker": "A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "104a4cfd-5bb0-4bb0-aba5-28fb86c53a87",
+          "title": "Print souvenir postcards",
+          "owner": null,
+          "deadline": null,
+          "date": null,
+          "deadlineStatus": "none",
+          "status": "excluded",
+          "evidence": [
+            {
+              "segmentId": "s13",
+              "quote": "We could also print souvenir postcards some day.",
+              "role": "statement",
+              "start": 37.23,
+              "end": 40.18,
+              "speaker": "B"
+            }
+          ],
+          "history": [
+            {
+              "summary": "B tentatively suggests printing souvenir postcards.",
+              "evidence": [
+                {
+                  "segmentId": "s13",
+                  "quote": "We could also print souvenir postcards some day.",
+                  "role": "statement",
+                  "start": 37.23,
+                  "end": 40.18,
+                  "speaker": "B"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metrics": {
+        "calls": 3,
+        "retries": 0,
+        "seconds": {
+          "transcription": 15.8337631,
+          "extraction": 6.760897599999998,
+          "total": 25.8427348,
+          "validation": 3.2467844000000006
+        },
+        "costs": {
+          "transcription": 0.0130625,
+          "extraction": 0.001678,
+          "validation": 0.0012808000000000001
+        },
+        "usd": 0.0160213,
+        "usdPerMinute": 0.02349953857906799
+      }
+    }
+  }
+}
